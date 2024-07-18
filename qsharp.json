@@ -1,0 +1,5 @@
+{
+	"include": [
+		"./guess_which_hand.qs"
+	]
+}
